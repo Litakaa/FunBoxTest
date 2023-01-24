@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FunBoxTest/static/css/main.09c0bf56.css",
+    "main.js": "/FunBoxTest/static/js/main.f5b7ec97.js",
+    "static/media/Photo.svg": "/FunBoxTest/static/media/Photo.a6e010deeffb151ecf34.svg",
+    "static/media/exo20-thin.svg": "/FunBoxTest/static/media/exo20-thin.ccc7d2cc68640b5f3bfe.svg",
+    "static/media/exo20-thin.ttf": "/FunBoxTest/static/media/exo20-thin.ae8198da1ed1bd997158.ttf",
+    "static/media/Pattern.png": "/FunBoxTest/static/media/Pattern.b598336e8a0f5bf0b8e5.png",
+    "static/media/exo20-thin.woff": "/FunBoxTest/static/media/exo20-thin.5bf5458c048911eaeb63.woff",
+    "static/media/exo20-thin.eot": "/FunBoxTest/static/media/exo20-thin.a36928fb587e8f9fce29.eot",
+    "static/media/exo20-thin.woff2": "/FunBoxTest/static/media/exo20-thin.982db186518d0c0cfc35.woff2",
+    "index.html": "/FunBoxTest/index.html",
+    "main.09c0bf56.css.map": "/FunBoxTest/static/css/main.09c0bf56.css.map",
+    "main.f5b7ec97.js.map": "/FunBoxTest/static/js/main.f5b7ec97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09c0bf56.css",
+    "static/js/main.f5b7ec97.js"
+  ]
+}
