@@ -1,13 +1,25 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@font-face {
+  font-family: 'Exo 2 Thin';
+  src: url("./fonts/exo20-thin.eot");
+  src: url("./fonts/exo20-thin.eot?#iefix") format('embedded-opentype'),
+  url("./fonts/exo20-thin.woff2") format('woff2'),
+  url("./fonts/exo20-thin.woff") format('woff'),
+  url("./fonts/exo20-thin.ttf") format('truetype'),
+  url("./fonts/exo20-thin.svg#exo_2thin") format('svg');
+  font-weight: 100;
+  font-style: normal;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+  font-family: 'Exo 2', -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('../public/Pattern.png');
 }
+ * {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+ }
+
+
